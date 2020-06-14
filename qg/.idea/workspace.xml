@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8cf9bfc-278b-455e-96f6-6cba78f7bafb" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGUwvYZ1YkPpIvRjK8iwFuqTo4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.QgPreApplication">
+    <configuration name="QgGoodsConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-goods-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgGoodsConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgGoodsProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-goods-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgGoodsProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgOrderConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-order-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgOrderConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgOrderProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-order-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgOrderProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgPayConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-pay-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgPayConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgPayProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-pay-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgPayProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgPreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="qg-pre" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.qgpre.QgPreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgUserConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-user-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgUserConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QgUserProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qg-user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qg.QgUserProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.QgPreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18668832" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="完成" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8cf9bfc-278b-455e-96f6-6cba78f7bafb" name="默认更改列表" comment="" />
+      <created>1586361665517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586361665517</updated>
+      <workItem from="1586361667255" duration="3208000" />
+      <workItem from="1586693763045" duration="1516000" />
+      <workItem from="1586695291801" duration="605000" />
+      <workItem from="1586695945301" duration="1047000" />
+      <workItem from="1586918708999" duration="3048000" />
+      <workItem from="1587176357367" duration="2850000" />
+      <workItem from="1587197282226" duration="3117000" />
+      <workItem from="1587343224879" duration="7005000" />
+      <workItem from="1587431289947" duration="25468000" />
+      <workItem from="1588126905632" duration="12755000" />
+      <workItem from="1588350653720" duration="2647000" />
+      <workItem from="1588476778499" duration="23000" />
+      <workItem from="1588591067713" duration="47000" />
+      <workItem from="1591144570500" duration="38000" />
+      <workItem from="1591146053871" duration="1233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="701" y="185" key="#Deploy_to_Host" timestamp="1588591106572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="185" key="#Deploy_to_Host/0.0.1920.1040@0.0.1920.1040" timestamp="1588591106572" />
+    <state x="811" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586361716408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586361716408" />
+    <state x="740" y="209" key="FileChooserDialogImpl" timestamp="1588176746601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="209" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588176746601" />
+    <state width="1502" height="274" key="GridCell.Tab.0.bottom" timestamp="1587381630044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630044" />
+    <state width="1502" height="274" key="GridCell.Tab.0.center" timestamp="1587381630044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630044" />
+    <state width="1502" height="274" key="GridCell.Tab.0.left" timestamp="1587381630043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630043" />
+    <state width="1502" height="274" key="GridCell.Tab.0.right" timestamp="1587381630044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630044" />
+    <state width="1502" height="274" key="GridCell.Tab.1.bottom" timestamp="1587381630045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630045" />
+    <state width="1502" height="274" key="GridCell.Tab.1.center" timestamp="1587381630045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630045" />
+    <state width="1502" height="274" key="GridCell.Tab.1.left" timestamp="1587381630044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630044" />
+    <state width="1502" height="274" key="GridCell.Tab.1.right" timestamp="1587381630045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587381630045" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1586695854530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586695854530" />
+    <state x="614" y="223" key="NewModule_or_Project.wizard" timestamp="1588176749790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588176749790" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1588176783299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588176783299" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1587953070361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587953070361" />
+  </component>
+</project>

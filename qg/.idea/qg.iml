@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/qg-common-parent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-goods-consumer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-goods-provider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-order-consumer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-order-provider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-pay-consumer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-pay-provider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-pre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-user-consumer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qg-user-provider" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

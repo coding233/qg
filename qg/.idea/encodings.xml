@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/java_sdk_v3.0.9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-common-parent/qg-common-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-common-parent/qg-common-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-common-parent/qg-common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-common-parent/qg-common-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-goods-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-goods-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-order-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-order-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-pay-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-pay-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-pre/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-user-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qg-user-provider/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
